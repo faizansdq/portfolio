@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color: #eaf6f6;
+    padding-top: 100px;
+    position: relative;
+}
+h1{
+    margin: 3rem auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+}
+hr{
+    width: 5%;
+    border: dotted;
+    border-width: 6px;
+    color: #EAF6F6;
+    border-bottom: none;
+    margin: 3rem auto;
+}
+h3, a{
+    color: #11999E;
+}
+a{
+    margin: 1.5rem 1rem;
+}
+a:hover{
+    color: #EAF6F6;
+}
+p{
+    line-height: 2;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.middle-container{
+   margin: 7rem auto 4rem;
+}
+.bottom-container{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #66BFBF;
+    
+}
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+#boy-image{
+    border-radius: 100%;
+    background-color:#EAF6F6;
+    height: 200px;
+    width: 200px;
+
+}
+.code-img{
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+.noodles-img{
+    width: 25%;
+    margin-left: 30px;
+    float: right;
+}
+#para{
+    font-size: 2.5rem;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.btn{
+    background-color: #70bdc0;
+    padding: 8px 16px 8px 16px;
+    border-radius: 0.4rem;
+    text-decoration: none;
+    color: white;
+    margin-top: 1rem;
+}
+.btn:hover{
+    background: #30e3cb;
+}
+#info{
+    color: #EAF6F6;
+    font-size: .75rem;
+}
+.footer-link{
+    color:#11999E;
+    text-decoration: none;
+    
+}
+.contact-me{
+    padding-bottom: 2rem;
+    width: 50%;
+    margin: 40px auto 60px;
+}
